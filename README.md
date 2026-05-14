@@ -1,6 +1,6 @@
 <h1>EX-6 : IMPLEMENT MINIMAX SEARCH ALGORITHM FOR A SIMPLE TIC-TAC-TOE GAME</h1> 
-<h3>Name : RITIKAA S V </h3>
-<h3>Register Number : 212224060217 </h3>
+<h3>Name : KRITHIKA SHERIN A.O V </h3>
+<h3>Register Number : 212224060129 </h3>
 <H2>AIM :</H4>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
